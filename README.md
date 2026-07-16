@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🏆 Mis Certificaciones
+
+* **Cisco Networking Basics** - Cisco Networking Academy
+  
+  ![Certificado Cisco](./suorce/networking-basics.png)
