@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### 🏆 Mis Certificaciones
 
-* **Cisco Networking Basics** - Cisco Networking Academy
+* **Networking Basics** - Cisco Networking Academy
   
-  ![Certificado Cisco](./suorce/networking-basics.png)
+  ![Certificado](./source/networking-basics.png)
