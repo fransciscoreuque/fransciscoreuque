@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   
   ![Certificado](./source/networking-basics.png)
   
- * **Networking Devices and Initial Configuration** - Cisco Networking Academy
+* **Networking Devices and Initial Configuration** - Cisco Networking Academy
   
-  !Certificado](./source/networking-devices-and-initial-configuration.png)
+  ![Certificado](./source/networking-devices-and-initial-configuration.png)
   
-  08/102026
+  08/10/2026
