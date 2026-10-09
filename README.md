@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 * **Networking Basics** - Cisco Networking Academy
   
   ![Certificado](./source/networking-basics.png)
+  
+ * **Networking Devices and Initial Configuration** - Cisco Networking Academy
+  
+  /[Certificado](./source/networking-devices-and-initial-configuration.png)/
+  
+  08/102026
